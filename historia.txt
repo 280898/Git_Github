@@ -3,3 +3,8 @@ Esta es la historia de Brenda Reyes
 Tengo 22 años y estoy aprendiendo a usar de nuevo Git,
 
 Inicie de nuevo el curso pero ahora me estoy poniendo más vergas y no en la cara, agradecida con el de arriba, pero el de más arriba
+
+Recuerda que se añade con git add "nombre del archivo"
+en su defecto git add . para agregar todo
+y este es el directorio del respositorio al cual nosotros hacemos commit para subirlo a Github
+git push -u origin main
