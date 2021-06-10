@@ -8,3 +8,7 @@ Recuerda que se añade con git add "nombre del archivo"
 en su defecto git add . para agregar todo
 y este es el directorio del respositorio al cual nosotros hacemos commit para subirlo a Github
 git push -u origin main
+
+ya no se que más escribir xD
+
+Si bueno quien tiene hambre? 
